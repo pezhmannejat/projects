@@ -1,0 +1,25 @@
+/*---------------------------------*/
+.main_container{
+    margin: 0 auto;
+    width: 610px;
+}
+.boxes {
+    display: inline-flex;
+    margin: 0;
+    width: 200px;
+    height: 150px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.first_box { background-color: purple; }
+.second_box { background-color: blue; }
+.third_box { background-color: yellow; }
+
+.boxes:hover { color: black; }
+/*---------------------------------*/
