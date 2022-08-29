@@ -1,0 +1,20 @@
+.main_container{
+  border: 5px solid black;
+  margin: 10px 10px;
+
+}
+.row{
+  display: inline-flex;
+  margin: 30px 40px 150px 30px;
+}
+.boxes{
+  width: 150px;
+  height: 100px;
+  font-size: 22px;
+  text-align: center;
+  line-height: 90px;
+  font-weight: bold;
+}
+.first_box{background-color:#dd5268;}
+.secend_box{background-color: #f4d923;}
+.thired_box{background-color: #1fa0de;}
