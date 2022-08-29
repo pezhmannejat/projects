@@ -1,0 +1,55 @@
+h1{
+    font-family: cursive;
+    font-size: 25px;
+    background-color:gold ;
+    box-shadow:0px 0px 10px 0px red
+}
+.aa{
+    font-family:cursive;
+    font-size: 20px;
+    background-color: orangered;
+    box-shadow:0px 0px 10px 0px #333;
+
+}
+.bb{
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+    box-shadow:0px 0px 10px 0px blue
+}
+.cc{
+    text-align: center;
+    font-family:cursive;
+    font-size: 25px;
+    box-shadow:0px 0px 10px 0px chartreuse;
+}
+a{
+    text-decoration: none;
+    font-family: cursive;
+    color: #333;
+    margin:0px 20px;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.dd{
+    text-align: center;
+    font-family:cursive;
+    font-size: 30px;
+    box-shadow:0px 0px 10px 0px yellow
+}
+.ff{
+    font-size: 30px;
+}
+footer{
+    color: white;
+    background-color: #333;
+    font-family: cursive;
+    text-align: center;
+    padding: 15px 30px;
+}
+.hh{
+    width: 400px;
+    margin: 20px;
+
+    
+}
