@@ -1,0 +1,30 @@
+.main_container{
+border: 5px solid black;
+}
+.colum{
+  margin: 40px 50px 60px;
+}
+.first_row{
+  display: inline-flex;
+}
+.first_box{
+  width: 200px;
+  height: 100px;
+  background-color: #dd5268;
+}
+.secend_box{
+  width: 300px;
+  height: 150px;
+  background-color:#29add0;
+}
+.thired_box{
+  width: 500px;
+  height: 80px;
+  background-color:#f4d923;
+  font-weight: bold;
+}
+.boxes{
+  font-size: 25px;
+  text-align: center;
+
+}

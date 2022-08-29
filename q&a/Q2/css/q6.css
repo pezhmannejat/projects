@@ -1,0 +1,50 @@
+.div_container{
+    margin: 40px 40px;
+}
+.first_column{
+    float: left;
+}
+.divs{
+    font-size: 25px;
+
+}
+.first_row{
+    border: 4px solid black;
+    width: 250px;
+    height: 250px;
+}
+.secend_row{
+    border: 4px solid #ed1c24;
+    width: 250px;
+    height: 202px;
+    margin:15px 0px 0px  ;
+    color:#ed1c24
+}
+.thired_row{
+    border: 4px solid #00a2e8;
+    width: 250px;
+    height: 90px;
+    clear: right;
+    margin:1px 265px ;
+    color: #00a2e8;
+}
+.four_row{
+    border: 4px solid #ff7f27;
+    width: 250px;
+    height:250px ;
+    margin:10px 265px ;
+    color: #ff7f27;
+}
+.five_row{
+    border: 4px solid blueviolet;
+    width: 250px;
+    height:100px ;
+    margin:10px 265px ;
+    color: blueviolet;
+}
+.fonts{
+    padding: 15px;
+}
+.thired_column{
+    margin: 0px 10px;
+}
