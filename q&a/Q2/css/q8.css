@@ -1,0 +1,36 @@
+.div_container{
+margin: 30px 30px;
+}
+.rows{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 35px;
+    margin: 5px 0px;
+}
+.first_row{
+    width: 705px;
+    height: 100px;
+    line-height: 90px;
+}
+
+.secend_row{
+    width: 200px;
+    height: 450px;
+    line-height: 100px;
+    float: left;
+    margin:1px ;
+}
+.thired_row{
+width:500px;
+height: 450px;
+margin: 1px 0px 0px 210px;
+line-height: 120px;
+
+
+}
+.four_row{
+width: 705px;
+height: 60px;
+line-height: 50px;
+
+}

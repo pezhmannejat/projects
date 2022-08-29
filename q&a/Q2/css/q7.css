@@ -1,0 +1,46 @@
+.main_container{
+    border: 3px solid black;
+   float: left;
+   margin: 20px;
+
+}
+
+.dives{
+float:left;
+text-transform: capitalize;
+line-height: 100px;
+text-indent: 30px;
+margin:20px 20px;
+
+}
+
+
+
+.first_row{
+    border: 2px solid black;
+height: 400px;
+margin:20px 5px;
+
+}
+.first_column_2{
+    border: 2px solid black;
+width: 242px;
+height: 200px;
+margin: 5px 5px;
+
+}
+.second_column_3{
+    border: 2px solid black;
+    width: 242px;
+    height: 200px;
+    margin: 5px 5px;
+
+}
+.second_column_4{
+    border: 2px solid black;
+    width: 400px;
+    height:630px ;
+    margin: 38px 80px 5px 5px;
+    text-align: center;
+    line-height:400px ;
+}
