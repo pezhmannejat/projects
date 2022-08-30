@@ -7,10 +7,10 @@
 
 .dives{
 float:left;
-text-transform: capitalize;
 line-height: 100px;
 text-indent: 30px;
 margin:20px 20px;
+font-size: 20px;
 
 }
 
