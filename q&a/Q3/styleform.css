@@ -1,0 +1,28 @@
+.main_container{
+    margin: 200px 500px;
+}
+p{
+    font-weight: bold;
+    font-size: 18px;
+}
+.name,.mail{
+    width: 200px;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 4px;
+    font-size: 17px;
+    outline: none;
+}
+textarea{
+    
+    width: 400px;
+    height:90px ;
+    border-radius:4px;
+    padding: 10px 10px;
+    font-size: 17px;
+}
+.submit{
+    font-weight: bold;
+    width: 50px;
+    border-radius: 3px;
+}
