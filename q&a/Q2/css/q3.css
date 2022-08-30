@@ -1,30 +1,32 @@
 
 .main_container{
     display: inline-flex;
+    position: relative;
 }
 .first_box{
     background-color: #81d41a;
     width: 300px;
     height: 130px;
-    
-
+    display: flex;
 }
 .third_box{
     background-color: #729fcf;
     width: 300px;
     height: 170px;
-    
-
+    line-height: 4.5;
+ 
 }
 .secend_box{
     background-color:  #ff4000;
     width: 300px;
     height: 325px;
-    
+    line-height: 9;
 }
 .boxes{
     font-size: 35px;
     margin: 25px 10px;
+    flex-direction: column;
     text-align: center;
+    justify-content: center;
 }
 
