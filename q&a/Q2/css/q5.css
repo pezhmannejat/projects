@@ -24,7 +24,10 @@ border: 5px solid black;
   font-weight: bold;
 }
 .boxes{
+  display: flex;
   font-size: 25px;
+  flex-direction: column;
   text-align: center;
+  justify-content: center;
 
 }
