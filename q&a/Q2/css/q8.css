@@ -1,11 +1,14 @@
 .div_container{
-margin: 30px 30px;
+margin: 30px auto;
+width: 710px;
+max-width: max-content;
 }
 .rows{
     border: 2px solid black;
     text-align: center;
     font-size: 35px;
     margin: 5px 0px;
+    box-sizing: border-box;
 }
 .first_row{
     width: 705px;

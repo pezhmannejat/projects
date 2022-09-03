@@ -1,7 +1,8 @@
 
 .main_container{
     display: inline-flex;
-    position: relative;
+    width: 630px;
+    max-width: max-content;
 }
 .first_box{
     background-color: #81d41a;

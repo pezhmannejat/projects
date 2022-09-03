@@ -1,6 +1,9 @@
+
 .main_container{
   border: 5px solid black;
   margin: 10px 10px;
+  width:850px ;
+  margin: 0 auto;
 
 }
 .row{
@@ -11,9 +14,10 @@
   width: 150px;
   height: 100px;
   font-size: 22px;
-  text-align: center;
-  line-height: 90px;
   font-weight: bold;
+  text-align: center;
+  padding:37.5px 25px;
+  box-sizing: border-box;
 }
 .first_box{background-color:#dd5268;}
 .secend_box{background-color: #f4d923;}

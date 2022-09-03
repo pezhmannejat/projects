@@ -1,17 +1,21 @@
-.main_container{
-    margin: 200px 500px;
+
+form{
+width: 530px;
+margin: 100px auto;
+max-width: max-content;
 }
 p{
     font-weight: bold;
     font-size: 18px;
 }
 .name,.mail{
-    width: 200px;
+    width: 220px;
     height: 30px;
     padding: 0 10px;
     border-radius: 4px;
     font-size: 17px;
-    outline: none;
+    box-sizing: border-box;
+
 }
 textarea{
     
@@ -20,6 +24,7 @@ textarea{
     border-radius:4px;
     padding: 10px 10px;
     font-size: 17px;
+    box-sizing: border-box;
 }
 .submit{
     font-weight: bold;
