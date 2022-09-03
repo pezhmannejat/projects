@@ -1,6 +1,7 @@
 .div_countainer{
     margin: 0 auto;
     width:600px;
+    max-width: 100%;
 }
 .first_row{
 width: 60px;
