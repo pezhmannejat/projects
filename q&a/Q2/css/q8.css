@@ -1,7 +1,7 @@
 .div_container{
 margin: 30px auto;
 width: 710px;
-max-width: max-content;
+max-width: 100%;
 }
 .rows{
     border: 2px solid black;

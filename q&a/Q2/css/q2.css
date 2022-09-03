@@ -2,7 +2,7 @@
     margin: 0px auto;
     width:400px;
     display:flex;
-    max-width: max-content;
+    max-width: 100%;
 }
 .boxes{
     color:white;

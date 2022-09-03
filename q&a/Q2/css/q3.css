@@ -2,7 +2,7 @@
 .main_container{
     display: inline-flex;
     width: 630px;
-    max-width: max-content;
+    max-width: 100%;
 }
 .first_box{
     background-color: #81d41a;

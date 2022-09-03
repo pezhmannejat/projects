@@ -2,7 +2,7 @@
 .main_container{
     margin: 0 auto;
     width: 610px;
-    max-width: max-content;
+    max-width:100%;
 }
 .boxes {
     display: inline-flex;
