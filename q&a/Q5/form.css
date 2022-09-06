@@ -17,11 +17,10 @@ margin: 0 -20px;
 }
 .rows{
     display: inline-flex;
-    box-sizing: border-box;
     width:100%;
 }
 .rows :hover{
-    background-color: #b4e2f9;
+   background: #b4e2f9;
 }
 .first_col{
     padding: 10px 5px;
