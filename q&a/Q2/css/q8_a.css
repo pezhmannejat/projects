@@ -16,24 +16,22 @@ max-width: 100%;
     line-height: 90px;
 }
 
-.secend_row{
+.first_column{
     width: 200px;
     height: 450px;
     line-height: 100px;
     float: left;
     margin:1px ;
 }
-.thired_row{
+.second_column{
 width:495px;
 height: 450px;
 margin: 1px 0px 0px 210px;
 line-height: 120px;
-
-
 }
-.four_row{
+
+.third_row{
 width: 705px;
 height: 60px;
 line-height: 50px;
-
 }
