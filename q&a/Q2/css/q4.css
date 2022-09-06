@@ -3,6 +3,7 @@
   border: 5px solid black;
   width:850px ;
   margin: 0 auto;
+  max-width: 100%;
 }
 .column{
   width:450px ;
