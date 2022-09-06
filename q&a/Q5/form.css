@@ -19,8 +19,13 @@ margin: 0 -20px;
     display: inline-flex;
     width:100%;
 }
+<<<<<<< HEAD
 .rows:hover{
     background-color: #b4e2f9;
+=======
+.rows :hover{
+   background: #b4e2f9;
+>>>>>>> f371b96819643ffd1edf99af22fbedd99168ce98
 }
 
 .first_col{
