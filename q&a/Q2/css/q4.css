@@ -1,13 +1,12 @@
 
 .main_container{
   border: 5px solid black;
-  margin: 10px 10px;
   width:850px ;
   margin: 0 auto;
-
 }
-.row{
-  display: inline-flex;
+.column{
+  width:450px ;
+  height: 100px;
   margin: 30px 40px 150px 30px;
 }
 .boxes{
@@ -18,7 +17,9 @@
   text-align: center;
   padding:37.5px 25px;
   box-sizing: border-box;
+  float: left;
+
 }
 .first_box{background-color:#dd5268;}
-.secend_box{background-color: #f4d923;}
-.thired_box{background-color: #1fa0de;}
+.second_box{background-color: #f4d923;}
+.third_box{background-color: #1fa0de;}

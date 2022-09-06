@@ -1,12 +1,11 @@
 
 form{
-width: 530px;
+width: 550px;
 margin: 100px auto;
 max-width: 100%;
 }
 p{
-    font-weight: bold;
-    font-size: 18px;
+    font-family: tahoma;
 }
 .name,.mail{
     width: 220px;
@@ -16,6 +15,9 @@ p{
     font-size: 17px;
     box-sizing: border-box;
 
+}
+span{
+    color: red;
 }
 textarea{
     

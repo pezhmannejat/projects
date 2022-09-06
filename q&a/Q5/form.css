@@ -4,14 +4,13 @@
     max-width: 100%;
 }
 .first_row{
-width: 60px;
+width:120px;
 margin: 0px auto;
 }
-.secend_row{
-width: 120px;
-margin: 0 auto;
+p{
+margin: 0 -20px;
 }
-.thired_row{
+.third_row{
     border: 2px dotted black;
     margin: 0px auto;
     box-sizing: border-box;
@@ -29,7 +28,7 @@ margin: 0 auto;
     width: 120px;
 
 }
-.secend_col{
+.second_col{
     padding: 5px;
     width:310px;
     margin: 0 auto;
@@ -54,7 +53,7 @@ input{
 .first_box{
     padding: 0px 0px 5px;
 }
-.secend_p{
+.second_p{
     margin: 0px;
     padding: 5px;
 }
@@ -76,7 +75,7 @@ textarea{
     width: 100%;
     display: inline-flex;
 }
-.first_boton,.secend_boton{
+.first_boton,.second_boton{
 height:20px;
 padding: 20px 10px;
 }
@@ -84,7 +83,7 @@ padding: 20px 10px;
 display: inline-flex;
 margin: 0 auto;
 }
-.thired_p{
+.third_p{
     margin: 0;
     font-weight: bold;
     padding: 5px 0;
