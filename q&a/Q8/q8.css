@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+
+.container{
+width: 450px;
+margin: 50px auto;
+}
+
+.header{
+    width: 450px;
+    height: 50px;
+    background-color:grey
+}
+
+.first-header{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    line-height: 50px;
+    float: left;
+}
+
+.second-header{
+    width: 250px;
+    height: 50px;
+    border: 2px solid black;
+    line-height: 50px;
+    float: left;
+}
+
+
+
+
+.third-header{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    line-height: 50px;
+    float: right;
+}
+
+.main{
+    width: 100px;
+    height: 200px;
+    background-color: grey;
+    float: left;
+}
+
+.first-main{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    line-height: 50px;
+    
+}
+.second-main{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    line-height: 100px;
+}
+.third-main{
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    line-height: 50px;
+}
+.center{
+    width: 250px;
+    height: 150px;
+    float: left;
+}
+.first-center{
+    width: 125px;
+    height: 50px;
+    border: 2px solid black;
+    float: left;
+    color: black;
+    line-height: 50px;
+    
+}
+.desc{
+    width: 100px;
+    height: 150px;
+    background-color: lightgray;
+    float: right;
+}
+.first-desc{
+    color: black;
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+}
+.footer{
+    width: 350px;
+    height: 50px;
+    border: 2px solid black;
+    color: black;
+    line-height: 50px;
+    background-color: rgb(118, 109, 109);
+    float:right;
+
+}
