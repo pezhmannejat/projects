@@ -1,0 +1,30 @@
+.container{
+    width: 600px;
+    margin: 50px auto;
+}
+
+form{
+    margin: 0 40px;
+}
+
+
+
+
+input[type=text]{
+    width: 45%;
+    
+}
+span{
+    padding: 50px;
+}
+p{
+    margin:20px 30px ;
+}
+label[for=movies]{
+    margin:0 0 0 30px;
+}
+input[type=submit]{
+    margin: 10px 150px;
+    font-size: 15px;
+    background-color: rgb(213, 215, 211);
+}
