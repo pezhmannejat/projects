@@ -69,3 +69,8 @@ font-family: tahoma;
 .topic{
     font-family: tahoma;
 }
+.first-li,.second-li{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
